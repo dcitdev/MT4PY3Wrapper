@@ -48,3 +48,4 @@ After the installation
 | Predefined Variables | Support |
 | Technical Indeicators | Support |
 | Trade | Support |
+| Market Info | Support |
