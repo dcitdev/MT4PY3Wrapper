@@ -35,3 +35,16 @@ After the installation
 
 ![image info](./pic/Virtual_Env_Selection.png)
 - You need to select the correct virtual environment
+
+# Functions we are supporting
+| Category      | Status |
+| ----------- | ----------- |
+| Account Information      | Support       |
+| Chart Operations   | Support        |
+| Checkup | Support |
+| Conversion | Support |
+| Date and Time | Support |
+| Object | Support |
+| Predefined Variables | Support |
+| Technical Indeicators | Support |
+| Trade | Support |
